@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/70449559/138293516-8b1b0d61-ccf0-4fbf-bf00-57151ec21ab5.jpg)
+![label](https://user-images.githubusercontent.com/70449559/138293578-7968d295-8f43-4244-b8a1-5a723c5dac13.png)
 
 Quickly change your desktop background.
 Version 0.1 (20.08.2021)
