@@ -1,4 +1,4 @@
-![label](https://user-images.githubusercontent.com/70449559/138293578-7968d295-8f43-4244-b8a1-5a723c5dac13.png)
+![New Project](https://user-images.githubusercontent.com/70449559/138443855-4dec3ef6-cba5-4f3c-8451-93f9e9a02e89.png)
 
 Quickly change your desktop background.
 <p>Version 0.1 (20.08.2021)</p>
