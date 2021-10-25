@@ -15,8 +15,6 @@ import json
 import sys
 import os
 
-# shortcut("C:/Users/Admin/Desktop/Text.lnk","C:/Users/Admin/Desktop/Text.txt", "C:/Users/Admin/Desktop","D:/Прочие/Оформление/icons/xIcons/access.ico")
-
 # invisible window
 root = Tk()
 root.state('withdrawn')
