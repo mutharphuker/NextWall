@@ -1,7 +1,7 @@
 ![New Project (1)](https://user-images.githubusercontent.com/70449559/138444049-258f4ac9-ebc4-49ad-9518-b95165cb3848.png)
 
 Quickly change your desktop background.
-<p>Version 0.1 (20.08.2021)</p>
+<p>Version 0.1</p>
 
 Double click on LMB to apply the following wallpaper.
 Right click to open the menu.
