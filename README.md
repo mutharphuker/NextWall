@@ -13,4 +13,4 @@ In menu click "Select wallpapers..." to select images to set as wallpaper.
 ![nextwall_demo](https://user-images.githubusercontent.com/70449559/138294573-7a7de70b-dd6b-4934-ba66-86bb423ba102.png)
 
 ddxSoftware. All rights reserved.
-<p>© ddx Inc. 2021</p>
+<p>© ddx Inc. 2021-2022</p>
